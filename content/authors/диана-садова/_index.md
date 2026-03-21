@@ -10,7 +10,7 @@ last_name: Садова
 superuser: true
 
 # Role/position
-role: студентка 3 курса бакалавриата
+role: студентка 3 курса бакалавриата группы НПИ-01-23
 
 # Organizations/Affiliations
 organizations:

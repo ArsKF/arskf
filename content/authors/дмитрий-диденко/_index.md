@@ -10,7 +10,7 @@ last_name: Диденко
 superuser: false
 
 # Role/position
-role: студент 3 курса бакалавриата
+role: студент 3 курса бакалавриата группы НПИ-01-23
 
 # Organizations/Affiliations
 organizations:

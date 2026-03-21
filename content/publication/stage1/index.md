@@ -11,7 +11,7 @@ doi: ""
 math: true
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-03-20T00:00:00Z"
+publishDate: "2026-03-21T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,8 +22,6 @@ publication_types: ["article-journal"]
 publication: "*Этап 1*"
 publication_short: ""
 
-abstract: Целью данной работы является изучение процесса неравновесной агрегации и его математическое моделирование. Основное внимание уделяется модели агрегации, ограниченной диффузией (Diffusion Limited Aggregation, DLA), а такжеметодам анализа полученных структур, в частности, определению их фрактальной размерности.
-
 tags:
 - Source Themes
 featured: false
@@ -32,13 +30,13 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: /publication/stage1/report.pdf
-url_code: ''
+url_code: https://github.com/ZhukovaArina/2026-1--study--mathmod/tree/master/project-group/stage01
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: /publication/stage1/presentation.pdf
 url_source: ''
-url_video: ''
+url_video: https://rutube.ru/video/private/d062a590b35fbef54fc6c2db599a117a/?p=cmeFQkOY9F_PVusjwFh_gw
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -57,6 +55,18 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+# Цель работы
+
+Целью данной работы является изучение процесса неравновесной агрегации и его математическое моделирование. Основное внимание уделяется модели агрегации, ограниченной диффузией (Diffusion Limited Aggregation, DLA), а также методам анализа полученных структур, в частности, определению их фрактальной размерности.
+
+# Задание
+
+1.  Изучить теоретические основы процессов неравновесной агрегации и фрактальных структур.
+2.  Разработать концептуальное описание модели DLA на квадратной решетке в соответствии с принципами, изложенными в литературе.
+3.  Подготовить теоретическое введение, описывающее алгоритм модели, методы определения фрактальной размерности и примеры математических фракталов.
+
+# Теоретическое введение
 
 ## Неравновесная агрегация и фракталы
 
