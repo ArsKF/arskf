@@ -18,7 +18,7 @@ organizations:
     url: 'https://rudn.ru'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Python-разработчик
+bio: Теоретик
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: '1132239120@rudn.ru'
